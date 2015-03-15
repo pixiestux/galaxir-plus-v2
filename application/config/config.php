@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/galax_plus/';
+$config['base_url']	= 'http://localhost/galaxir-plus-v2/';
 
 /*
 |--------------------------------------------------------------------------

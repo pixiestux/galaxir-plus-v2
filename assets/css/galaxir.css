@@ -1,0 +1,30 @@
+
+
+body{
+	padding-top: 51px;
+}
+
+#navMenu{
+	background: #FFD777;
+}
+
+
+#asideMenu{
+	background: #797979;
+}
+/*#asideMenu a{
+	color: #AEB2B7;
+	width: 100%;
+	height: 100%;
+	padding: 5px;
+	text-decoration: none;
+}
+#asideMenu a:hover{
+	color: #FFF;
+}*/
+
+
+
+#contenedorPrincipal{
+	background: #F2F2F2;
+}
